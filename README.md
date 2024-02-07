@@ -1,4 +1,4 @@
-# Tomato Transportation Routes Optimization Readme
+# Tomato Transportation Routes Optimization
 ## Objective
 This optimization problem focuses on efficiently shipping tomato products from multiple plants to multiple destinations via transfer stations, considering bi-directional shipments among plants and destinations. The objectives include meeting demand, minimizing transshipment costs, and ensuring the validity of shipments along certain routes.
 
